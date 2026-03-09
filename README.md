@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```javascript
 const geraldo = {
@@ -28,7 +28,7 @@ const geraldo = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -66,7 +66,7 @@ const geraldo = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -89,7 +89,7 @@ const geraldo = {
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -99,7 +99,7 @@ const geraldo = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -112,7 +112,7 @@ const geraldo = {
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
