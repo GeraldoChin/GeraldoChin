@@ -64,9 +64,9 @@
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GeraldoChin&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldoChin&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -76,7 +76,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=GeraldoChin&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -84,7 +84,7 @@
 
 # 📈 Atividade
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GeraldoChin&theme=tokyo-night&hide_border=true"/>
 
 ---
 
@@ -96,24 +96,24 @@
 
 # ⭐ Projetos em destaque
 
-### 📱 Food Delivery App
-Aplicativo de entrega desenvolvido com **React Native**
+### 📱 Calculadora App
+Aplicativo de Calculadora desenvolvido com **React Native**
 
-🔗 https://github.com/SEU_USUARIO/food-app
+🔗 https://github.com/GeraldoChin/food-app
 
 ---
 
-### 📝 Todo List App
-Aplicação de gerenciamento de tarefas
+### Sistema-de-Emprestimo-
+Um sitema de emprestimos desenvolvido com React
 
-🔗 https://github.com/SEU_USUARIO/todo-app
-
+🔗 https://github.com/GeraldoChin/Sistema-de-Emprestimo-
 ---
 
 ### 🌐 Website Portfólio
 Site profissional para apresentação de projetos
 
-🔗 https://github.com/SEU_USUARIO/portfolio
+🔗 https://github.com/GeraldoChin/Portifolio-React-Admin
+
 
 ---
 
